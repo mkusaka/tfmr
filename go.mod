@@ -2,7 +2,7 @@ module github.com/mkusaka/tfmr
 
 go 1.25
 
-toolchain go1.27.2
+toolchain go1.27.3
 
 require github.com/hashicorp/terraform-config-inspect v0.0.0-20260904064934-75d64de68c31
 
